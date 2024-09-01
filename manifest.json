@@ -1,20 +1,29 @@
 {
-    "manifest_version": 3,
-    "name": "CVNV Extension",
-    "version": "1.0",
-    "permissions": [
-        "tabs",
-        "storage",
-        "scripting",
-        "activeTab"
-    ],
-    "background": {
-        "service_worker": "background.js"
-    },
-    "action": {
-        "default_title": "Open CVNV GPT"
-    },
-    "host_permissions": [
-        "<all_urls>"
-    ]
+  "manifest_version": 3,
+  "name": "CVNV",
+  "version": "1.0",
+  "description": "Tailor resumes and cover letters to job descriptions.",
+  "permissions": [
+    "activeTab",
+    "scripting",
+    "storage"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ],
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  }
 }
