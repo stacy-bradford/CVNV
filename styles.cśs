@@ -1,0 +1,24 @@
+body {
+  font-family: Arial, sans-serif;
+  width: 300px;
+}
+
+h1 {
+  font-size: 1.5em;
+}
+
+#status {
+  margin-bottom: 20px;
+}
+
+button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+}
+
+#ats-score {
+  margin-top: 20px;
+}
