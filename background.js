@@ -1,15 +1,10 @@
-chrome.tabs.onUpdated.addListener((tabId, changeInfo, tab) => {
-  if (changeInfo.status === 'complete' && tab.url) {
-    if (tab.url.includes('greenhouse.io') || tab.url.includes('lever.co')) {
-      chrome.action.setIcon({ path: "icons/icon-alert.png", tabId: tabId });
-    }
-  }
-});
+// background.js
 
+// Listener for when the extension icon is clicked
 chrome.action.onClicked.addListener((tab) => {
-  // Trigger resume tailoring and cover letter generation
-  chrome.scripting.executeScript({
-    target: { tabId: tab.id },
-    files: ['content.js']
-  });
+    // Inject content.js into the current tab
+    chrome.scripting.executeScript({
+        target: {tabId: tab.id},
+        files: ['content.js']  // Inject content.js into the tab
+    });
 });
