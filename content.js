@@ -1,13 +1,12 @@
-// content.js
-
-// Function to copy all text from the page
+// This function copies all text from the page
 function copyAllTextFromPage() {
-    // Retrieve all visible text from the body of the page
     return document.body.innerText;
 }
 
-// Copy the text and store it in the Chrome extension's local storage
+// Execute when the script runs (triggered by the background.js)
 let copiedText = copyAllTextFromPage();
-chrome.storage.local.set({copiedText: copiedText}, () => {
+
+// Store the copied text in Chrome's local storage
+chrome.storage.local.set({ copiedText: copiedText }, () => {
     console.log('Text copied and stored locally.');
 });
