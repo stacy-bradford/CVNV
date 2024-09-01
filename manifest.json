@@ -2,17 +2,18 @@
     "manifest_version": 3,
     "name": "CVNV Extension",
     "version": "1.0",
-    "action": {
-        "default_title": "Click to copy text"
-    },
+    "permissions": [
+        "tabs",
+        "storage",
+        "scripting",
+        "activeTab"
+    ],
     "background": {
         "service_worker": "background.js"
     },
-    "permissions": [
-        "scripting",
-        "storage",
-        "activeTab"
-    ],
+    "action": {
+        "default_title": "Open CVNV GPT"
+    },
     "host_permissions": [
         "<all_urls>"
     ]
