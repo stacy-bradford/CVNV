@@ -1,0 +1,173 @@
+{
+  "images": {
+    "images": [
+      {
+        "page": 1,
+        "imagePath": "figures/Page0-Image0.png",
+        "rect": [34.0, 100.0, 578.0, 102.0]
+      },
+      {
+        "page": 1,
+        "imagePath": "figures/Page0-Image2.png",
+        "rect": [34.0, 94.0, 38.0, 100.0]
+      }
+    ]
+  },
+  "text": {
+    "lines": [
+      {
+        "page": 1,
+        "text": "SUMMARY",
+        "rect": [36.025001525878909, 121.4649887084961, 94.90800341796876, 113.85298919677735]
+      },
+      {
+        "page": 1,
+        "text": "Stacy Bradford",
+        "rect": [253.35000610351563, 67.469970703125, 358.48599633789066, 53.197967529296878]
+      },
+      {
+        "page": 1,
+        "text": "Los Angeles, CA 90027 | 415.483.5794 | StacyDBradford@gmail.com",
+        "rect": [150.5800018310547, 80.14496612548828, 461.62498608398439, 70.14596557617188]
+      },
+      {
+        "page": 1,
+        "text": "linkedin.com/in/stacy-bradford",
+        "rect": [237.85000610351563, 92.64496612548828, 374.6109924316406, 82.64596557617188]
+      },
+      {
+        "page": 1,
+        "text": "Technically proficient Solutions Engineer with extensive experience in sales, data-driven strategies, and API integrations. Passionate about enabling companies to harness the power of AI technologies to drive business success. A strong communicator with hands-on experience in Python, API development, and delivering pre-sales support to a diverse set of customers, from startups to enterprise-level organizations. Proven success in leading cross-functional teams, crafting innovative solutions, and optimizing client relationships.",
+        "rect": [36.025001525878909, 146.69998168945313, 574.64, 137.6099853515625]
+      },
+      {
+        "page": 1,
+        "text": "ACCOMPLISHMENTS",
+        "rect": [36.025001525878909, 194.69998168945313, 140.73498779296876, 187.7799835205078]
+      },
+      {
+        "page": 1,
+        "text": "• Developed and implemented Python-based custom Go-To-Market strategies that leveraged API integrations for SMB and enterprise clients.",
+        "rect": [54.025001525878909, 208.98001098632813, 533.9299926757813, 199.79002380371095]
+      },
+      {
+        "page": 1,
+        "text": "• Delivered technical presentations and product demos that clarified complex technical concepts and secured new business for Indiegogo.",
+        "rect": [54.025001525878909, 221.22994995117188, 533.9299926757813, 212.0399627685547]
+      },
+      {
+        "page": 1,
+        "text": "• Led cross-functional teams that unlocked over $1.25M+ in additional revenue through innovative technical solutions.",
+        "rect": [54.025001525878909, 233.48001098632813, 533.9299926757813, 224.38002014160157]
+      },
+      {
+        "page": 1,
+        "text": "• Created and scaled an enterprise sales channel at RangeMe targeting Fortune 500 companies, including solutions-based selling and API integrations.",
+        "rect": [54.025001525878909, 245.72994995117188, 533.9299926757813, 236.63995361328126]
+      },
+      {
+        "page": 1,
+        "text": "• Achieved 9x YoY customer growth featured in Forbes through a strategic growth initiative.",
+        "rect": [54.025001525878909, 257.9800109863281, 413.91998291015627, 248.8900146484375]
+      },
+      {
+        "page": 1,
+        "text": "PROFESSIONAL EXPERIENCE",
+        "rect": [36.025001525878909, 281.0150146484375, 196.5779973144531, 273.40301513671877]
+      },
+      {
+        "page": 1,
+        "text": "Senior Strategic Account Executive – Indiegogo, Remote                                                                           September 2021-Present",
+        "rect": [45.025001525878909, 298.75, 542.8000317382813, 289.6600036621094]
+      },
+      {
+        "page": 1,
+        "text": "• Implemented affiliate and partnership programs that extended Indiegogo’s reach while increasing account retention",
+        "rect": [54.025001525878909, 311.0, 533.9299926757813, 301.80999755859377]
+      },
+      {
+        "page": 1,
+        "text": "• Provided technical support to clients, helping them understand and implement API-based solutions for their unique business needs",
+        "rect": [54.025001525878909, 323.0, 530.0699926757812, 313.9100036621094]
+      },
+      {
+        "page": 1,
+        "text": "• Collaborated with engineering teams to translate customer needs into product features and functionality",
+        "rect": [54.025001525878909, 335.25, 530.0699926757812, 325.9200134277344]
+      },
+      {
+        "page": 1,
+        "text": "Interim Director of Sales – Indiegogo, Remote                                                                         December 2021– September 2022",
+        "rect": [45.025001525878909, 375.27001953125, 560.7200317382813, 366.1800231933594]
+      },
+      {
+        "page": 1,
+        "text": "• Managed a 10+ person sales team, ensuring technical accuracy in pre-sales presentations and API integrations",
+        "rect": [54.025001525878909, 387.5199890136719, 533.9299926757813, 378.42999267578127]
+      },
+      {
+        "page": 1,
+        "text": "• Drove initiatives to improve Salesforce data integrity and forecasting accuracy",
+        "rect": [54.025001525878909, 399.77001953125, 533.9299926757813, 390.6800231933594]
+      },
+      {
+        "page": 1,
+        "text": "Strategic Account Executive – Indiegogo, San Francisco                                                              August 2019 – September 2021",
+        "rect": [45.025001525878909, 427.5199890136719, 559.4700317382813, 418.42999267578127]
+      },
+      {
+        "page": 1,
+        "text": "• Led company growth initiative resulting in 9x YoY customer gains and 145% YoY increase in revenue",
+        "rect": [54.025001525878909, 439.8000183105469, 485.3700231933594, 430.71002197265627]
+      },
+      {
+        "page": 1,
+        "text": "Enterprise Sales Representative – RangeMe, San Francisco                                                               November 2017 – August 2019",
+        "rect": [45.025001525878909, 491.8000183105469, 575.2200317382813, 482.71002197265627]
+      },
+      {
+        "page": 1,
+        "text": "• Established enterprise sales channel by instituting playbook with scalable processes targeting Fortune 500 companies",
+        "rect": [54.025001525878909, 504.04998779296877, 541.3099829101562, 494.9599914550781]
+      },
+      {
+        "page": 1,
+        "text": "SKILLS",
+        "rect": [36.025001525878909, 583.8200073242188, 72.30500274658204, 576.8999633789063]
+      },
+      {
+        "page": 1,
+        "text": "• Sales Methodologies: SANDLER, MEDDIC, GAP, SPIN, BANT, Challenger, Consultative Selling, Technical Sales",
+        "rect": [54.025001525878909, 598.1000366210938, 533.9299926757813, 589.010009765625]
+      },
+      {
+        "page": 1,
+        "text": "• Technical Skills: Python, API Development, Salesforce, Complex Sales, Contract Negotiation",
+        "rect": [54.025001525878909, 610.3500366210938, 533.9299926757813, 601.260009765625]
+      },
+      {
+        "page": 1,
+        "text": "• Sales Skills: Lead Generation, Customer Success, Strategic Sales, Cross-Sell, Upsell, Closing",
+        "rect": [54.025001525878909, 622.3500366210938, 533.9299926757813, 613.260009765625]
+      },
+      {
+        "page": 1,
+        "text": "• Other: Go-To-Market Strategy, Market Research, Product Knowledge, Looker, Tableau, Excel",
+        "rect": [54.025001525878909, 634.6000366210938, 505.96002319335937, 625.510009765625]
+      },
+      {
+        "page": 1,
+        "text": "EDUCATION",
+        "rect": [36.025001525878909, 655.6000366210938, 97.18500396728516, 648.6799926757813]
+      },
+      {
+        "page": 1,
+        "text": "• Bachelor of Science - Zoology | University of Oklahoma, Norman, OK",
+        "rect": [54.025001525878909, 670.8500366210938, 356.3699938964844, 661.760009765625]
+      }
+    ]
+  },
+  "tables": {
+    "info": []
+  }
+}
